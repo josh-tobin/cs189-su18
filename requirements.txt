@@ -1,2 +1,5 @@
 jupyter==1.0.0
 matplotlib==2.2.2
+plotly==2.7.0
+cufflinks==0.13.0
+ipywidgets==7.2.1
