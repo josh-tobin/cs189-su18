@@ -4,3 +4,4 @@ plotly==2.7.0
 cufflinks==0.13.0
 ipywidgets==7.2.1
 scipy
+tensorflow==1.8.0
